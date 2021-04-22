@@ -1,0 +1,14 @@
+**/.idea/**
+**.idea/**
+**.idea
+
+**/log/**
+**log/**
+
+**/target/**
+**target/**
+**target**
+**/target**
+/.project
+out/*
+*.iml
